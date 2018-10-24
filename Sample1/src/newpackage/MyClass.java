@@ -23,6 +23,7 @@ public class MyClass {
 	    			System.out.println("Proper Web page opened");
 	    		}
 	    	//added this comment
+	    	//added second comment
 	    	else
 	    		{
 	    			System.out.println("Proper Web page not opened");
